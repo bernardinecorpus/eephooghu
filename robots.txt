@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyovuumie.osseclass.com/sitemap.xml
